@@ -30,7 +30,7 @@ export const UseFormProductos: FC = () => {
           className="border  rounded-xl p-2 m-2 bg-blue-400"
           onClick={handleConsultar}
         >
-          Consultar
+          Consultars
         </button>
         <button
           title="boton"
